@@ -7,6 +7,7 @@
 ## Description 
 
 Starter code for a multiple choice quiz, which contains a timer and logged high scores. 
+https://aortega-wendzik.github.io/Coding-Game/
 
 
 ## Usage
