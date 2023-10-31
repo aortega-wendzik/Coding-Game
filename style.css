@@ -1,0 +1,25 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    Color: rgb(233, 19, 169);
+    background-color:rgb(3, 2, 3);
+
+  }
+  .btn{
+    background-color: rgb(37, 247, 26);
+    color:black;
+  }
+
+#new, #quiz, #inputScore, #highScore {
+    width: 70%;
+}
+
+#quiz, #inputScore, #highScore {
+    display: none;
+}
+
+
+.main {
+    background-color: rgb(3, 2, 3);
+    border-radius: 1px;
+    color: rgb(233, 19, 169);
+}
